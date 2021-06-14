@@ -1,2 +1,6 @@
 # keel-crossplane-demo-1
-Initial Demo of 
+
+Demo of Spinnaker Keel and Crossplane Integration.
+
+This repo contains a basic Spinnaker Managed delivery manifest in the
+`.spinnaker/` directory
